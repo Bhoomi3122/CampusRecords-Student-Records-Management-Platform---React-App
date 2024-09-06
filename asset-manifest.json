@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CampusRecords-Student-Records-Management-Platform---React-App/static/css/main.3b7f5f86.css",
+    "main.js": "/CampusRecords-Student-Records-Management-Platform---React-App/static/js/main.9dbdd1de.js",
+    "static/js/453.e1c36b6d.chunk.js": "/CampusRecords-Student-Records-Management-Platform---React-App/static/js/453.e1c36b6d.chunk.js",
+    "index.html": "/CampusRecords-Student-Records-Management-Platform---React-App/index.html",
+    "main.3b7f5f86.css.map": "/CampusRecords-Student-Records-Management-Platform---React-App/static/css/main.3b7f5f86.css.map",
+    "main.9dbdd1de.js.map": "/CampusRecords-Student-Records-Management-Platform---React-App/static/js/main.9dbdd1de.js.map",
+    "453.e1c36b6d.chunk.js.map": "/CampusRecords-Student-Records-Management-Platform---React-App/static/js/453.e1c36b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b7f5f86.css",
+    "static/js/main.9dbdd1de.js"
+  ]
+}
