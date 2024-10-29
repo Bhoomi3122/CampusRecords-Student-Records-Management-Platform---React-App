@@ -22,6 +22,11 @@ The University Management System (UMS) is a web application built using React th
 6. **Error Handling**: 
    - Provides user-friendly error messages for validation failures and other potential issues to enhance the user experience.
 
+7. **Local Storage**: 
+   - Uses local storage for data management, allowing for quick access and manipulation of student records. This can be easily replaced with a MongoDB database for more advanced data handling in the future.
+
 ## Technologies Used
 - **Frontend**: React, HTML, CSS, JavaScript
+- **Database**: Local Storage (can be replaced with MongoDB)
 - **Version Control**: Git
+
